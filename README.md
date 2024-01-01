@@ -4,8 +4,15 @@ sepecifically, in the end of the year 2023, I meet up with my firends, and will 
 
 ##the menu (update on 31-Dec-2023)
 
-### 秘制烤鸡腿
-### 烤牛排
-### 麻辣鸡丝
-### 菠萝炒饭
-### 爆炒犹豫
+
+### Honey Chicken  
+
+### Grilled Steak 
+
+### Spicy Shredded Chicken 
+
+### Pineapple Fried Rice 
+
+### Fried Squid 
+
+### Beef Bone Soup 
